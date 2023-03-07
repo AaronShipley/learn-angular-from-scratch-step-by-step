@@ -1,6 +1,7 @@
 {
   "name": "learn-angular-from-scratch",
   "version": "0.0.0",
+  "author": "Aaron Shipley",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
